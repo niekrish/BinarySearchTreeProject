@@ -1,0 +1,12 @@
+//Nikhil Krishna
+//niekrish
+//CMPS-12B/M
+//README
+
+Create an object of type BST that stores strings in a Binary Search Tree
+Implements methods to create a binary search tree, traverse and print the tree, make a copy of the tree, and delete nodes in the tree or the entire tree.
+
+Includes files to create a UI to test the BST implementation
+
+File list:
+BST.c  BST.h  BSTClient.c  BSTUI.h  Makefile  README  main.c
